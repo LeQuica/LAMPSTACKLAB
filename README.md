@@ -16,10 +16,6 @@ Project consists of a simple LAMP Stack web application that walks the user thro
 
 - <b>UBUNTU 20.04</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program Slides (See Attached)</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
